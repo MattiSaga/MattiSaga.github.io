@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mattisaga.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-10-21T09:41:22.958Z</updated>
+    <title>MattiSaga</title>
+    <updated>2020-10-21T10:01:20.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mattisaga.github.io"/>
     <link rel="self" href="https://mattisaga.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>So, create.</subtitle>
     <logo>https://mattisaga.github.io/images/avatar.png</logo>
     <icon>https://mattisaga.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, MattiSaga</rights>
     <entry>
         <title type="html"><![CDATA[LG gram 13Z980 黑苹果使用记录（持续更新）]]></title>
         <id>https://mattisaga.github.io/post/lg-gram-13z980-hei-ping-guo-ji-lu/</id>
